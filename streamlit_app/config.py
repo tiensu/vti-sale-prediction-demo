@@ -1,6 +1,6 @@
 datafields = "data/datafields.csv"
 
-nav_image = "data/vti.png"
+nav_image = "data/vti_jp.png"
 home_image = "data/home.png"
 
 quarter_1 = "data/q1.csv"
