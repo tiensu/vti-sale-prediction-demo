@@ -44,7 +44,7 @@ st.sidebar.image(nav_image, use_column_width=True)
 
 #navbar content-1
 html3 = '''
-<h2 style="text-align: center;">VTI Solution</h2>
+<h2 style="text-align: center;">VTI Japan</h2>
 <p style="text-align: center; font-size: 15px">
     すべての製造業で製品のパーソナライズとスケーラビリティに対する高い需要を持つ顧客に包括的なソフトウェアとソリューションを提供することを専門としています。
 </p>
